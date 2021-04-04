@@ -1,0 +1,241 @@
+
+.menu{
+    background: url("images/BCK1.JPG") no-repeat;
+    background-size: cover;
+      color:white;
+}
+form{
+    background: url("images/contact.JPG") no-repeat;
+    background-size: height=100%;
+
+}
+.menu img{
+height: 110px;
+width: 120px;
+}
+
+
+
+
+
+h2{
+position: relative;
+margin-left: 30px;
+margin-top: -100px;
+}
+
+
+h1 {
+  font-family: Tahoma;
+  font-size: 100px;
+  position: relative;
+  margin-left: 180px;
+  margin-top: -120px;
+  text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+  
+}
+
+ h3{
+   background:;
+    background-size: cover;
+    color: #FFCA28;  
+    height: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+     text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+              
+ 
+
+    }
+
+.nav{
+  float: left;
+  width: 100%;
+}
+
+
+.nav ul{
+     list-style-type:none;
+      background-color:#84FFFF;
+      margin:0;
+      overflow: hidden;
+}
+ .nav li{
+   float: left;
+}
+.nav li a{
+   text-decoration: none;
+    padding: 10px 25px;
+     display: block;
+      color: black;
+}
+   
+.nav li a:hover{
+  background-color:#e0ffff;
+    color:white;
+
+}
+
+
+.nav li a:active{
+  background-color:#001eff;
+    color:white;
+
+}
+
+.content{
+background: url(bck3.jpg) no-repeat;
+    background-size: cover;
+      width:110%;
+      color:white;
+    
+
+  
+}
+ .nava1 ul{
+      background-color:;
+      margin:WHITE;
+      overflow: hidden;
+       list-style-type: none;
+    width: 80%;
+   font-size: 19px;
+
+
+}
+.nava1 li{
+   float: left;
+}    
+.nava1 li a{
+   text-decoration: none;
+    padding: 15px 15px;
+     display: block;
+      color: white;
+     
+}
+.nava1 li a:hover{
+  background-color:#607D8B;
+    color:WHITE;
+   font-style:Javanese Text;
+   font-size: 20px;
+}
+
+p{
+   background:  black; 
+   color: white;  
+    height: 80%;
+    width: 100%;
+    text-align: center;
+    font-size: 1.5em;
+    box-shadow:1px 0px 2px 1px;
+    border:2px solid white;
+     
+}
+
+      
+
+.main ul li{
+ color:white;
+}
+
+.footer{
+  text-align: center;
+  font-size: 2em;
+  background: ;
+  color: red;
+  
+}
+ .nava2 ul{
+      background-color:;
+      margin:;
+      overflow: hidden;
+       list-style-type: none;
+    width: 80%;
+   font-size: 20px;
+}
+.nava2 li{
+   float: left;
+}    
+.nava2 li a{
+   text-decoration: none;
+    padding: 15px 15px;
+     display: block;
+      color: black;
+  
+     
+}
+.nava2 img{
+   border: 2px solid grey;
+    margin-left: 25px;
+    
+}
+
+.nava2 img:hover{
+  border-radius: 25px;
+  box-shadow: 2px 2px 5px 2px;
+  border: 5px double white;
+}
+
+
+.nava2 li a:hover{
+  background-color:#e0ffff;
+    color:WHITE;
+   font-style:Javanese Text;
+   font-size: 22px;
+
+}
+.nava3 li a{
+   text-decoration: none;
+    padding: 15px 15px;
+     display: block;
+      color: black;
+     
+}
+.nava3 li a:hover{
+  background-color:lightgreen;
+    color:black;
+   font-style: Lucida Handwriting;
+   font-size: 20px;
+
+}
+.nava3 ul{
+      background-color:;
+      
+      overflow: hidden;
+       list-style-type: none;
+    width: 80%;
+  font-style: ;
+   font-size: 20px;
+
+}
+.jaga img:hover{
+  border-radius: 15px;
+  box-shadow: 2px 2px 5px 2px;
+  border: 3px double white;
+  padding: 5px;
+}
+input[type=text]{
+padding:5px;
+font-size:20px;
+}
+     
+   
